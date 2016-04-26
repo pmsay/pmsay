@@ -2,11 +2,12 @@
 layout: post
 title:  "My first article"
 date:   2016-04-26
-excerpt: "Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+excerpt: "Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 tag:
 - markdown 
 - syntax
+- sample
+- test
 - jekyll
 comments: true
 ---
